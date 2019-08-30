@@ -4,6 +4,6 @@ erik xavier do nascimento r.a: 1900404
 - add: dei um git add em cada print dos processos feitos (printadd)
 - commit: fiz um commit dos processos que estava fazendo (printcommit)
 - pull : realizei o processo de pull(printpull e fetch)
-- fetch: realizei o processo do fetch (print pull e fetch)
+- fetch: realizei o processo do fetch (printfetch e print pull e fetch)
 - push: realizei o processo push para subir os arquivos no site (printpush e printpush2)
 - checkout: no final deu um checkout (
